@@ -1,0 +1,70 @@
+{
+  "countries": [
+    {
+      "name": "India",
+      "id": 1
+    },
+    {
+      "name": "China",
+      "id": 2
+    },
+    {
+      "name": "Italy",
+      "id": 3
+    },
+    {
+      "name": "Pakistan",
+      "id": 4
+    },
+    {
+      "name": "USA",
+      "id": 5
+    },
+    {
+      "name": "London",
+      "id": 6
+    },
+    {
+      "name": "Japan",
+      "id": 7
+    },
+    {
+      "name": "Germany",
+      "id": 8
+    },
+    {
+      "name": "GreenWhich",
+      "id": 9
+    }
+  ],
+  "cities": [
+    {
+      "name": "Hyderabad",
+      "population": "2658479",
+      "country": "India",
+      "unique": "9a9fa351-e563-4ebc-b5dc-b71706e0adb4",
+      "id": 1
+    },
+    {
+      "name": "Banglore",
+      "population": "726542648",
+      "country": "India",
+      "unique": "e6eb35b4-4453-45f0-a986-1256e01851db",
+      "id": 2
+    },
+    {
+      "name": "Chennai",
+      "population": "6889",
+      "country": "India",
+      "unique": "592ca783-8dd9-4e5c-80f6-c5a68b27f2c7",
+      "id": 3
+    },
+    {
+      "name": "Bihar",
+      "population": "7825829",
+      "country": "India",
+      "unique": "2f2b96f6-cdcf-428b-bd8f-cf17373f3378",
+      "id": 4
+    }
+  ]
+}
